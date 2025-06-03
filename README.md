@@ -1,5 +1,5 @@
 # PRODIGY_FS_01
-<h2>User Autherization</h2>
+<h2>User Authentication</h2>
 
 <h2>Features</h2>
 <ul>
