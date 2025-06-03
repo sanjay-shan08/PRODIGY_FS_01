@@ -1,6 +1,5 @@
 # PRODIGY_FS_01
-<h2>Orchard Auth</h2>
-A modern authentication UI template with login and registration flows.
+<h2>User Autherization</h2>
 
 <h2>Features</h2>
 <ul>
